@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    max-width: 1360px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    width: 100%;
+}
+.active{
+    color: #bb2e1f;
+}
+.each-profile{
+    background-color: #ebebeb;
+    padding: 2rem 1.6rem;
+}
+.flex-24{
+    flex: 0 1 24%
+}
+h4{
+    display: inline-block;
+    margin-left: .7rem;
+}
+.user-icon{
+    color: #ffbf74;
+}
+.stars{
+    color: #fbd84a;
+}
+.forks{
+    color: #81c3f5;
+}
+.issues{
+    color: #f18a93;
+}
+.icon{
+    font-size: 8rem;
+    display: block;
+    background-color: lightgray;
+    width: 190px;
+    color: #f7be73;
+}
+.color-icon{
+    color: #727272;
+}
+
+.color-icon1{
+    color: #fbd84a;
+}
+button{
+    background-color: #f2f2f2;
+    color: #c8c8c8;
+    padding: .6rem 2rem;
+    display: inline-block;
+}
+input{
+    font-size: 1.2rem;
+    border: 2px solid #e0e0e0;
+    background-color: #fafafa;
+    outline: blue;
+    padding: .1rem;
+}
+
+.battle-button{
+    background-color: black;
+    color: white;
+    padding: .4rem 1rem;
+    
+}
+.hidden{
+    display: none;
+
+}
+.one{
+    background-color: lightgray;
+
+}
+.two{
+    background-color: lightgray;
+
+}
+.one-img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-left: 1rem;
+    display: inline-block;
+margin-right: 1rem;
+}
+h6{display: inline-block ;}
+
+.flex-48{
+    flex: 0 1 48%;
+}
+.white{
+    color: white;
+}
