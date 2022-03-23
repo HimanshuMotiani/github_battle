@@ -204,7 +204,6 @@ reset = ()=>{
               </div>
             </div>
         
-        
         </div> 
         <div className="text-center white">
         <button  onClick={this.reset}>Reset</button>
